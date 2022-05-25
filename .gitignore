@@ -1,0 +1,6 @@
+node_modules/
+node_modules
+bkp
+.env
+.env.testing
+package-lock.json

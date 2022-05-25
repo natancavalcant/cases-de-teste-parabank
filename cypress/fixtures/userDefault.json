@@ -1,0 +1,14 @@
+{
+  "name": "Nico",
+  "surname": "da Silva",
+  "address": "no address",
+  "city": "no city",
+  "state": "no state",
+  "zip_code": "000000000",
+  "phone": "99999999",
+  "ssn": "123456789",
+
+  "username": "nico123",
+  "password": "123456879",
+  "confirm": "123456789"
+}

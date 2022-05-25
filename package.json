@@ -1,0 +1,12 @@
+{
+  "name": "projeto-de-testes",
+  "version": "1.0.0",
+  "description": "projeto da disciplina de tópicos especiais em eng. de software",
+  "main": "index.js",
+  "author": "Natan Bento Cavalcante",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
